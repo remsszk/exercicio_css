@@ -1,1 +1,1 @@
-# exercicio_css
+# Projeto focado em CSS.
